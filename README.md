@@ -1,4 +1,4 @@
-##  Hello! Or Bună ziua! Whatever, doesn't matter anyway. My name is Iancu Victor - Iuliu and 
+## Iancu Victor - Iuliu
  I am a  **Frontend Web Developer** (supposedly).
  I work in: 
 - Languages:
