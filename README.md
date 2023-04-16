@@ -33,6 +33,6 @@
 ## Some stats regarding my *development activity*
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iancuvictor&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" height='180px' />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iancuvictor&theme=violet-punch" alt="mystreak" height='180px'/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iancuvictor&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" height='150px' />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iancuvictor&theme=violet-punch" alt="mystreak" height='150px'/>
 </div>
