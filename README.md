@@ -1,9 +1,9 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzY3NTAxODFiZWVmZTc3MWM5OTU1NmU2N2MxMmUzNGFjODE4ZDU2OSZjdD1n/zxlIwyfyYFyRfdyMIV/giphy.gif" width='100%' height='100%'/>
 
-## Hello. I'm an aspiring MMA fighter with some average frontend skills. **UFC by 2030** 
+## Hello. I'm an aspiring MMA fighter that also does web development. **UFC by 2030** 
 
-* Still learning React.JS and some other shit🗑️
-* Training in ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom") **Birmingham, UK**. Bouta go to ![Thailand](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/th.png "Thailand") *Thailand* and *NZ* as well *(if I got enough papuh 💵)*
+* I ain't doin backend (at least not much) cuz it sukz🗑️
+* Livin in Romania but I want to move to *NZ* *(hopefully I get enough papuh 💵 to make the move someday)*
 * btw, u got some spare change by any chance?
 <a href='https://www.paypal.com/donate/?hosted_button_id=M8FLFFMNG2RFU' target='_blank'>
 <img src='https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png' alt=paypal width='200px'/>
