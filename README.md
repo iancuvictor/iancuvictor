@@ -2,14 +2,12 @@
 
 ## Hello. I'm an aspiring MMA fighter that also does web development. **UFC by 2030** 
 
-* I ain't doin backend (at least not much) cuz it sukz🗑️
-* Livin in Romania but I want to move to *NZ* *(hopefully I get enough papuh 💵 to make the move someday)*
-* btw, u got some spare change by any chance?
+* I'm not into back end🗑
 <a href='https://www.paypal.com/donate/?hosted_button_id=M8FLFFMNG2RFU' target='_blank'>
 <img src='https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png' alt=paypal width='200px'/>
 </a>
 
-## Things I be workin in
+## Things I work in
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
